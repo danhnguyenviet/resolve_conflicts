@@ -4,3 +4,7 @@ bool Crazy(){
 
 }
 
+void  abdb()
+{
+	
+}
