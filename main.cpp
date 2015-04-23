@@ -4,3 +4,6 @@ bool Crazy(){
 
 }
 
+int vl() {
+return 0;
+}
