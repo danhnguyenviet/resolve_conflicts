@@ -8,3 +8,7 @@ void  abdb()
 {
 	
 }
+
+int vl() {
+return 0;
+}
